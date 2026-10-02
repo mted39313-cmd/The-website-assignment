@@ -51,7 +51,6 @@ function renderProjects() {
     }
 }
 
-
 // Function to render Testimonials (satisfies the JavaScript Requirement)
 function renderTestimonials() {
     const testimonialsContainer = document.getElementById("testimonials-container");
@@ -69,6 +68,7 @@ function renderTestimonials() {
         testimonialsContainer.appendChild(card);
     }
 }
+
 
 // Initialize rendering when DOM is fully loaded
 document.addEventListener("DOMContentLoaded", () => {
