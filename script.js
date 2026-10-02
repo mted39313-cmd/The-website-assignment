@@ -65,6 +65,7 @@ function renderTestimonials() {
             <span class="testimonial-author">${item.author}</span>
         `;
 
+        
         testimonialsContainer.appendChild(card);
     }
 }
