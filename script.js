@@ -1,5 +1,4 @@
 // Data Objects and Arrays
-
 const portfolioData = {
     projects: [
         {
@@ -13,6 +12,7 @@ const portfolioData = {
             technologies: ["HTML", "CSS", "Git"]
         }
     ],
+    
     testimonials: [
         {
             quote: "Mike shows exceptional dedication to learning software engineering concepts and applies clean coding practices.",
