@@ -11,24 +11,24 @@ const portfolioData = {
             description: "A responsive e-commerce landing page featuring clean product layouts and modern CSS grid styling.",
             technologies: ["HTML", "CSS", "Git"]
         }
-    ],
-    
+    ], 
     testimonials: [
         {
             quote: "Mike shows exceptional dedication to learning software engineering concepts and applies clean coding practices.",
-            author: "— Peer Reviewer"
+            author: "— Eddie, Software Engineer"
         },
         {
             quote: "A remarkably creative developer who balances technical execution with a great eye for design and responsiveness.",
-            author: "— Project Collaborator"
+            author: "— Abbie, Project Collaborator"
         }
     ]
 };
 
+
 // Function to render Projects
 function renderProjects() {
     const projectsContainer = document.getElementById("projects-container");
-    
+     
     // Loop through the projects array using a for...of loop
     for (const project of portfolioData.projects) {
         const card = document.createElement("div");
