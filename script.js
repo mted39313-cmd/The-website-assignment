@@ -24,7 +24,6 @@ const portfolioData = {
     ]
 };
 
-
 // Function to render Projects
 function renderProjects() {
     const projectsContainer = document.getElementById("projects-container");
@@ -51,6 +50,7 @@ function renderProjects() {
         projectsContainer.appendChild(card);
     }
 }
+
 
 // Function to render Testimonials (satisfies the JavaScript Requirement)
 function renderTestimonials() {
