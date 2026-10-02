@@ -69,7 +69,6 @@ function renderTestimonials() {
     }
 }
 
-
 // Initialize rendering when DOM is fully loaded
 document.addEventListener("DOMContentLoaded", () => {
     renderProjects();
