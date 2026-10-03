@@ -1,3 +1,4 @@
+
 # Mike Ted Portfolio
 
 A single-page personal portfolio website built with HTML, CSS, and vanilla JavaScript to showcase projects and testimonials.
@@ -21,3 +22,4 @@ A single-page personal portfolio website built with HTML, CSS, and vanilla JavaS
 1. Clone the repository:
    ```bash
    git clone [https://github.com/mted39313-cmd/The-website-assignment](https://github.com/mted39313-cmd/The-website-assignment )
+   
