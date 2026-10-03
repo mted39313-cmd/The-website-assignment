@@ -3,7 +3,7 @@
 A single-page personal portfolio website built with HTML, CSS, and vanilla JavaScript to showcase projects and testimonials.
 
 ## Live Demo
-[View Live Site on GitHub Pages]( ) 
+[View Live Site on GitHub Pages](https://mted39313-cmd.github.io/The-website-assignment/) 
 
 ## Features
 - **Responsive Layout:** Automatically adapts seamlessly from desktop screens down to mobile devices.
