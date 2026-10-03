@@ -1,4 +1,3 @@
-
 # Mike Ted Portfolio
 
 A single-page personal portfolio website built with HTML, CSS, and vanilla JavaScript to showcase projects and testimonials.
@@ -21,5 +20,8 @@ A single-page personal portfolio website built with HTML, CSS, and vanilla JavaS
 ## How to Run It Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mted39313-cmd/The-website-assignment](https://github.com/mted39313-cmd/The-website-assignment )
-   
+   git clone [https://github.com/mted39313-cmd/The-website-assignment] (https://github.com/mted39313-cmd/The-website-assignment)
+
+# What I Learned
+
+Building this project reinforced how to cleanly structure data using JavaScript objects and arrays, and how to dynamically loop through them to generate DOM elements. I also deepened my understanding of CSS Grid layouts and media queries to ensure robust cross device responsiveness.
